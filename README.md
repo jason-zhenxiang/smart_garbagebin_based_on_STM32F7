@@ -1,0 +1,1 @@
+# smart_garbagebin_based_on_STM32F7
