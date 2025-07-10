@@ -36,7 +36,7 @@
 
 尽管资源有限，模型仍然表现出不错的效果，在实际的垃圾检测中验证了 YOLOv5 模型的强大性能。
 
-<img src="images/screenshot.png" height=640 align="center"/>
+<img src="images/微信图片_2025-07-10_115907_216.png" height=640 align="center"/>
 
 <p align="right">(<a href="#top">回到顶部</a>)</p>
 
